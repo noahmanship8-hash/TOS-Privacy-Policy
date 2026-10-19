@@ -1,0 +1,28 @@
+PRIVACY POLICY FOR ROBLOX SIGN-IN
+
+Last updated: October 19, 2026
+
+1. Introduction
+This Privacy Policy applies to the "Roblox Sign-In" application ("we", "us", or "our"). We respect your privacy and are committed to protecting the information you share with us through our authentication service.
+
+2. Information We Collect
+When you use our Roblox Sign-In application, we may collect the following public information provided directly by Roblox:
+- Your Roblox Username and User ID
+- Your Roblox Display Name
+- Basic profile information authorized during OAuth2 authentication
+- Your Discord User ID (if linked to our verification service)
+
+3. How We Use Your Information
+We use the collected information solely for:
+- Authenticating your identity and verifying ownership of your Roblox account.
+- Granting appropriate roles, ranks, or access within our Roblox experience, Discord server, or platform.
+- Maintaining security and preventing fraudulent access.
+
+4. Data Sharing and Protection
+We DO NOT sell, trade, rent, or transfer your personal information to third parties. All data collected is stored securely and accessed only as necessary to provide core verification services.
+
+5. Data Retention & Deletion
+We retain user data only as long as necessary to maintain your account access. If you wish to revoke access or request data deletion, you may remove our application’s permissions directly from your Roblox Account Settings under "Connected Apps".
+
+6. Contact Us
+If you have questions regarding this Privacy Policy, please contact our support team via our official community server or administrative contact channels.
