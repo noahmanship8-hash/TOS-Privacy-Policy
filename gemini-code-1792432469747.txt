@@ -1,0 +1,26 @@
+TERMS OF SERVICE FOR ROBLOX SIGN-IN
+
+Last updated: October 19, 2026
+
+1. Acceptance of Terms
+By accessing or using the "Roblox Sign-In" application, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use or authenticate with this application.
+
+2. Description of Service
+"Roblox Sign-In" provides identity verification and authentication linking your Roblox account to our services, community platforms, or games.
+
+3. User Responsibilities
+- You must comply with all official Roblox Terms of Use and Community Standards.
+- You agree not to attempt to exploit, bypass, reverse-engineer, or abuse the authentication system.
+- You are responsible for maintaining the security of your own Roblox account.
+
+4. Account Termination & Revocation
+We reserve the right to ban, revoke, or terminate your access to our application and associated services at any time, with or without notice, if you violate these terms or engage in malicious activity.
+
+5. Disclaimer of Warranties
+This service is provided on an "AS IS" and "AS AVAILABLE" basis without warranties of any kind. We are not responsible for any issues arising from third-party outages, including Roblox API downtime.
+
+6. Limitation of Liability
+To the fullest extent permitted by law, the creators and administrators of "Roblox Sign-In" shall not be liable for any indirect, incidental, or consequential damages resulting from your use of this service.
+
+7. Changes to Terms
+We reserve the right to modify these Terms of Service at any time. Continued use of the application following any changes constitutes your acceptance of the updated terms.
